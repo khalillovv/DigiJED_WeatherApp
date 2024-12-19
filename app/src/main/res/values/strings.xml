@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Khalilov Weather App</string>
+    <string name="search_location">Пошук міста</string>
+    <string name="wind">Вітер</string>
+    <string name="humidity">Вологість</string>
+    <string name="chance_of_rain">Шанс дощу</string>
+</resources>
